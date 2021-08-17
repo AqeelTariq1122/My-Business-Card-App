@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/740806041/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/740806041/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1705971842/android.url_launcher_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/1705971842/android.url_launcher_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932947263/android.url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932947263/android.url_launcher_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-230079773/android.url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-230079773/android.url_launcher_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-795522351/android.url_launcher_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-795522351/android.url_launcher_windows.iml" />
+    </modules>
+  </component>
+</project>
